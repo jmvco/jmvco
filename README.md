@@ -1,70 +1,85 @@
+<!-- Encabezado visual con animación -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" />
+</p>
+
 <h1 align="center">Hola, soy Jean Marco Vilca 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Code typing gif" />
-</p>
 
 <p align="center">
-  <i>“Dedicación tranquila, discreta y constante.”</i><br/>
-  <strong>Desarrollador web en formación | Profesor de robótica | Apasionado por la tecnología</strong>
+  🧑‍💻 Desarrollador Web en formación | 🤖 Profesor de Robótica | 🌱 Aprendiz constante
 </p>
+
+<p align="center"><em>"Con dedicación tranquila, discreta y constante se construyen grandes cosas."</em></p>
 
 ---
 
-## 🎩 Sobre mí
+### 🧑‍🎓 Sobre mí
 
-Soy Jean, un desarrollador web que busca fusionar la elegancia del detalle con la funcionalidad moderna. Enseño robótica en colegios y estoy formándome en tecnologías web con un enfoque minimalista y clásico.
-
-🧘 Me identifico con un estilo sobrio, preciso y constante.  
-🌍 Desde Perú, con vistas a Madrid.  
-🎓 Apasionado por el aprendizaje continuo y el buen diseño.
+- 👨‍🏫 Profesor de robótica educativa 
+- 🌐 Apasionado por el desarrollo web y la tecnología  
+- 🎯 Enfocado en crear sitios funcionales, ordenados y modernos  
+- 📚 Siempre aprendiendo y compartiendo conocimientos
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+### 🧰 Tecnologías y herramientas
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,github" />
 </div>
 
 ---
 
-## 🧠 Actualmente aprendiendo
-- JavaScript avanzado
-- Diseño web responsive
-- Frameworks modernos como React (próximamente)
+### 🎓 Formación
+
+- 📘 Formación Técnica: Desarrollo Web (en proceso)  
+- 📚 Cursos autodidactas: Platzi, FreeCodeCamp, YouTube  
+- 🧠 En constante autoaprendizaje  
+- 🏫 Experiencia educativa en programación y robótica (LEGO NXT, WeDo, Python)
 
 ---
 
-## ✨ Proyectos destacados
+### 💼 Experiencia
+
+- 👨‍🏫 Docente de robótica en instituciones privadas 
+- 💡 Desarrollo de proyectos educativos con kits LEGO  
+- 🛠️ Creación de recursos para enseñar lógica y pensamiento computacional  
+- 🌱 Mentor en tecnologías básicas y desarrollo web para jóvenes
+
+---
+
+### 📌 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [🌐 Portfolio Web](https://github.com/JeanMarcoVilca/portfolio) | Mi página personal con un enfoque elegante y minimalista. | HTML, CSS, JS |
-| [🧩 Mini Juegos JS](https://github.com/JeanMarcoVilca/mini-juegos-js) | Pequeños juegos web para practicar lógica y diseño. | JavaScript, CSS |
-| [📘 Recursos Programación](https://github.com/JeanMarcoVilca/recursos-programacion) | Repositorio con cursos y guías útiles para principiantes. | Markdown, Git |
+| [🌐 Portfolio Web](https://github.com/JeanMarcoVilca/portfolio) | Mi presentación personal como desarrollador | HTML, CSS, JS |
+| [🎮 Mini Juegos JS](https://github.com/JeanMarcoVilca/mini-juegos-js) | Juegos básicos como Tic-Tac-Toe y más | JavaScript |
+| [📘 Recursos Dev](https://github.com/JeanMarcoVilca/recursos-programacion) | Material útil para aprender a programar | Markdown, GitHub |
 
 ---
 
-## 🧑‍🏫 Experiencia docente
+### 🎯 Intereses personales
 
-- Profesor de **robótica educativa**
-- Trabajo con LEGO Mindstorms, WeDo y programación básica en Python
-- Participación activa en ferias educativas y días del logro
+- 🎵 Música tranquila, indie y electrónica  
+- 🧠 Crecimiento personal y mejora continua  
+- 🎹 Piano (aprendiendo)  
+- 💪 Gimnasio y bienestar físico  
+- 💻 Linux (Arch, KDE Plasma), personalización y rendimiento  
+- 🌍 Enseñar con tecnología
 
 ---
 
-## 📬 Contacto
+### 📫 Conectemos
 
 <p align="center">
-  <a href="mailto:jeanmarco.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-JeanMarcoVilca-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jeanmarcovilca"><img src="https://img.shields.io/badge/LinkedIn-JeanMarcoVilca-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:jeanmarco.dev@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/jeanmarcovilca"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt4bWI1bnRwaDgzYjRzcnp6Yms0cm00azR3Nmh0bW0zdjJqbnZndyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZJl7vNW/giphy.gif" width="250" alt="aesthetic old money" />
+  <img src="https://media.giphy.com/media/3ov9jExd1Q3x3V2xYY/giphy.gif" width="180px">
 </p>
 
-<p align="center">
-  <i>“La elegancia está en los detalles, incluso en el código.”</i>
-</p>
+<p align="center"><em>Creciendo en silencio, mejorando con constancia 🚀</em></p>
