@@ -72,7 +72,7 @@
 ### 📫 Conectemos
 
 <p align="center">
-  <a href="mailto:jeanmarco.dev@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jeanmarcovilca@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/jeanmarcovilca"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
