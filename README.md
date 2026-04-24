@@ -5,7 +5,7 @@
 <h2 align="center">Jean Marco Vilca 👋</h2>
 
 <p align="center">
-  💻 Estudiante de desarrollo | 🤖 Profesor de robótica
+  💻 Estudiante de desarrollo
 </p>
 
 <p align="center">
