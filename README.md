@@ -31,14 +31,6 @@
 
 ---
 
-### 📂 Proyectos
-
-| Proyecto                                                               | Descripción                                |
-| :--------------------------------------------------------------------- | :----------------------------------------- |
-| [Android Learning](https://github.com/JeanMarcoVilca/android-learning) | Prácticas básicas de layouts y componentes |
-| [Java Exercises](https://github.com/JeanMarcoVilca/java-exercises)     | Ejercicios de lógica y POO                 |
-
----
 
 ### 🎯 Intereses
 
